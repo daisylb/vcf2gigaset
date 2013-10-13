@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    outdent (0.2.0)
+    vcard (0.2.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  outdent
+  vcard
